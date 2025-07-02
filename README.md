@@ -7,6 +7,7 @@ By reading the EXIFS data for each image, the script creates folders at differen
 For this script, you will need to install two python libraries : 
 - Pillow
 - ExifRead
+  
 You can do this with the following pip command :
 ```
 pip install Pillow exifread
